@@ -1,0 +1,3 @@
+#environment and config files
+.venv
+.env
