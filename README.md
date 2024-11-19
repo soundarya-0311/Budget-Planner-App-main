@@ -8,3 +8,7 @@ This is an AI app where a user gives their monthly income then gives all their m
 > FastAPI
 > Langchain
 > OpenAI
+> Streamlit
+
+Access streamlit app 
+https://soundarya-0311-budget-planner-app-main-streamlit-tbdpa3.streamlit.app/
